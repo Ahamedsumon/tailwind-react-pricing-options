@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 19.99,
+    "duration": "Monthly",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "Community support"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 39.99,
+    "duration": "Monthly",
+    "description": "Great for members looking for additional classes and support.",
+    "features": [
+      "Everything in Basic Plan",
+      "Unlimited group classes",
+      "Personalized workout plan",
+      "Body composition analysis",
+      "Priority customer support"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 69.99,
+    "duration": "Monthly",
+    "description": "Ideal for serious fitness enthusiasts seeking premium benefits.",
+    "features": [
+      "Everything in Standard Plan",
+      "4 personal training sessions/month",
+      "Nutrition consultation",
+      "Sauna and recovery zone access",
+      "24/7 gym access",
+      "Premium member events"
+    ]
+  }
+]
