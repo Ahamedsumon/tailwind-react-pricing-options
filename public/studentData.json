@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Emma Johnson",
+    "marks": {
+      "physics": 91,
+      "chemistry": 88,
+      "math": 95
+    }
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "marks": {
+      "physics": 76,
+      "chemistry": 82,
+      "math": 79
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sophia Davis",
+    "marks": {
+      "physics": 89,
+      "chemistry": 94,
+      "math": 90
+    }
+  },
+  {
+    "id": 5,
+    "name": "William Wilson",
+    "marks": {
+      "physics": 68,
+      "chemistry": 74,
+      "math": 71
+    }
+  },
+  {
+    "id": 6,
+    "name": "Olivia Martinez",
+    "marks": {
+      "physics": 95,
+      "chemistry": 91,
+      "math": 98
+    }
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "marks": {
+      "physics": 82,
+      "chemistry": 79,
+      "math": 85
+    }
+  },
+  {
+    "id": 8,
+    "name": "Isabella Taylor",
+    "marks": {
+      "physics": 88,
+      "chemistry": 86,
+      "math": 93
+    }
+  },
+  {
+    "id": 9,
+    "name": "Benjamin Thomas",
+    "marks": {
+      "physics": 73,
+      "chemistry": 77,
+      "math": 80
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mia Garcia",
+    "marks": {
+      "physics": 92,
+      "chemistry": 89,
+      "math": 96
+    }
+  }
+]
