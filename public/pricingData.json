@@ -16,6 +16,7 @@
   {
     "id": 2,
     "name": "Standard Plan",
+    "popular": true,
     "price": 39.99,
     "duration": "Monthly",
     "description": "Great for members looking for additional classes and support.",
